@@ -8,6 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
+	title: "我的博客",
+	subtitle: "记录生活与技术",
 	title: "Fuwari",
 	subtitle: "Demo Site",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
@@ -54,8 +56,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	name: "你的名字",
+	bio: "这里是你的个人签名，随便写点什么吧~",
 	links: [
 		{
 			name: "Twitter",
