@@ -25,12 +25,17 @@ draft: false
 ```bash
 source <(curl -fSL https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
 ```
-#带下载进度条
+# 带下载进度条
 ```bash
 source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
 ```
 ## 效果截图
 
-<img src="https://tg-icon.pages.dev/1779342074574.jpg" alt="运行截图 1" style="width: 350px; max-width: 100%;" />
-
-<img src="https://tg-icon.pages.dev/1779342070804.jpg" alt="运行截图 2" style="width: 350px; max-width: 100%;" />
+<div style="display: flex; gap: 15px; flex-wrap: wrap; width: 100% !important;">
+  <div style="max-width: 350px !important; flex: 1 1 350px !important;">
+    <img src="https://tg-icon.pages.dev/1779342074574.jpg" alt="运行截图 1" style="width: 100% !important; height: auto !important;" />
+  </div>
+  <div style="max-width: 350px !important; flex: 1 1 350px !important;">
+    <img src="https://tg-icon.pages.dev/1779342070804.jpg" alt="运行截图 2" style="width: 100% !important; height: auto !important;" />
+  </div>
+</div>
