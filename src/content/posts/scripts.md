@@ -30,6 +30,7 @@ source <(curl -fSL https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit
 source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
 ```
 ## 效果截图
-<img src="https://tg-icon.pages.dev/1779342070804.jpg" alt="运行截图 1" width="350" />
 
-<img src="https://tg-icon.pages.dev/1779342074574.jpg" alt="运行截图 2" width="350" />
+<img src="https://tg-icon.pages.dev/1779342074574.jpg" alt="运行截图 1" style="width: 350px; max-width: 100%;" />
+
+<img src="https://tg-icon.pages.dev/1779342070804.jpg" alt="运行截图 2" style="width: 350px; max-width: 100%;" />
