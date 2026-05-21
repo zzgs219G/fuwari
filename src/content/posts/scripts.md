@@ -25,3 +25,7 @@ draft: false
 ```bash
 source <(curl -fSL https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
 ```
+带进度条
+```bash
+source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
+```
