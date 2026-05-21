@@ -29,3 +29,8 @@ source <(curl -fSL https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit
 ```bash
 source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
 ```
+效果截图
+![脚本大全截图2](https://tg-icon.pages.dev/1779342074574.jpg)
+![脚本大全截图1](https://tg-icon.pages.dev/1779342070804.jpg)
+
+
