@@ -32,6 +32,16 @@ source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/f
 ## 效果截图
 ZeroTermux
 
-![](https://tg-icon.pages.dev/1779342074574.jpg){width="350px"}
+![screenshot-small](https://tg-icon.pages.dev/1779342074574.jpg)
 
-![](https://tg-icon.pages.dev/1779342070804.jpg){width="350px"}
+![screenshot-small](https://tg-icon.pages.dev/1779342070804.jpg)
+
+<style>
+  /* 强行击穿 Fuwari 主题对 img 的 100% 限制 */
+  img[alt="screenshot-small"] {
+    width: 350px !important;
+    max-width: 100% !important;
+    display: inline-block !important;
+    margin: 10px auto !important;
+  }
+</style>
