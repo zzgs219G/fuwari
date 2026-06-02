@@ -14,7 +14,7 @@ draft: false
 ## 📢 郑重声明（请务必先看这里）
 
 :::important[💎 关于线路来源的说明]
-本教程中网盘内提供的加速线路，**均为自费购买**，并不是github上那些抓取的公开免费机场。**[QQ群](https://qun.qq.com/universal-share/share?ac=1&authKey=xI021LBN4vUGBkGlHwd41KaQ0iCM5ocRmZSKnuCIFO6rvZT6e4jCQxfv8cUsl%2FOK&busi_data=eyJncm91cENvZGUiOiI1ODM4OTMyNzYiLCJ0b2tlbiI6Ilg3ZUZLOEswSGwxMTZnNlJ5eFF5YWM3Z2g2Qkt2MjVPMTd6R3JJSnQ5WU5pTFBmWmFYb0llY3ZsTGh5VngxTzYiLCJ1aW4iOiIzODA3MDY5NzMxIn0%3D&data=LB1eELZVflje4Wf7xxDWHXiCIs5O6i1zbNM7Evns5Iol6PuABkCyaTlHIK5ZyY-EsgSdY8iGrVkWAOT784IJag&svctype=4&tempid=h5_group_info)**
+本教程中网盘内提供的加速线路，**均为自费购买**，并不是github上那些抓取的公开免费机场。👉**[QQ交流群](https://qun.qq.com/universal-share/share?ac=1&authKey=xI021LBN4vUGBkGlHwd41KaQ0iCM5ocRmZSKnuCIFO6rvZT6e4jCQxfv8cUsl%2FOK&busi_data=eyJncm91cENvZGUiOiI1ODM4OTMyNzYiLCJ0b2tlbiI6Ilg3ZUZLOEswSGwxMTZnNlJ5eFF5YWM3Z2g2Qkt2MjVPMTd6R3JJSnQ5WU5pTFBmWmFYb0llY3ZsTGh5VngxTzYiLCJ1aW4iOiIzODA3MDY5NzMxIn0%3D&data=LB1eELZVflje4Wf7xxDWHXiCIs5O6i1zbNM7Evns5Iol6PuABkCyaTlHIK5ZyY-EsgSdY8iGrVkWAOT784IJag&svctype=4&tempid=h5_group_info)**
 :::
 
 ---
@@ -25,6 +25,7 @@ draft: false
 
 ### 1. 一键下载加速器软件（安卓端）
 点击下方链接，即可直接下载目前最新、最简洁的“加速壳”软件，无广告、不限速：
+
 👉 **[点击直接下载 FlClash 安装包](https://r2.ili.asia/apps/vpn/FlClash_0.8.93.apk)**
 
 :::warning
@@ -33,6 +34,7 @@ draft: false
 
 ### 2. 前往网盘提取自费线路
 有了软件后，我们需要往里面注入“燃料（线路链接）”才能上网。请前往我的网盘提取：
+
 👉 **[点击进入网盘提取最新免费线路](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)**
 
 :::tip[💡 强烈建议收藏网盘]
@@ -74,9 +76,11 @@ draft: false
 
 1. 在软件中找到 **“代理” (Proxies)** 选项卡。
 2. 建议点击右上角的 **小闪电图标** 进行一次 **“延迟测试”（测速）**。
-3. 此时每个节点名字后面会出现数字（例如 `50ms`、`200ms`），**数字越小，代表网络速度越快、看视频越流畅**。
-4. **小白懒人推荐**：直接在最上方选择 **“自动选择” (Auto / URL Test)**，软件就会聪明地自动帮你切换到当前最快的线路，省心省力！
+3. 此时每个节点名字后面会出现数字（例如 `50ms`、`200ms`），**数字越小，代表延迟越低、但不代表实际下载速度越快**。
+4. **小白懒人推荐**：直接在最上方选择 **“自动选择” (Auto / URL Test)**，软件就会聪明地自动帮你切换到当前最快的线路，省心省力！但依旧推荐手动选择线路
 
+**效果图**
+![image](https://tg-icon.pages.dev/1780398426732.jpg)
 ---
 
 ## ❓ 常见问题与解决方法（小白必看）
