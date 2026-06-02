@@ -37,9 +37,9 @@ draft: false
 
 👉 **[UC网盘](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)**
 
-👉 **[夸克](https://pan.quark.cn/s/2e8c3772a722)**
+👉 **[夸克网盘](https://pan.quark.cn/s/2e8c3772a722)**
 
-👉 **[百度网盘](https://pan.baidu.com/s/1lV4oZFsXoJvgG-83C5qXEw?pwd=6666)**
+👉 **[百度网盘](https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666)**
 
 :::tip[💡 强烈建议收藏网盘]
 由于是自费线路，为了防止被恶意盗刷或封锁，我会经常更换和维护订阅地址。建议你**收藏上方网盘链接**！后续一旦发现无法上网，随时回来网盘复制最新的链接就能满血复活！
@@ -110,3 +110,8 @@ draft: false
 ---
 
 *📢 **温馨提示**：本工具仅供网络技术学习、代码托管以及查阅学术资料使用，请自觉遵守当地法律法规。*
+
+
+通过百度网盘分享的文件：VΡΝ【切记先保…
+链接:https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666 
+复制这段内容打开「百度网盘APP 即可获取」
