@@ -32,9 +32,9 @@ source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/f
 ## 效果截图
 ZeroTermux
 
-![screenshot-small](https://tg-icon.pages.dev/1779342074574.jpg)
+![screenshot-small](https://tg-image.614118.xyz/260612-e2b5g7.jpg)
 
-![screenshot-small](https://tg-icon.pages.dev/1779342070804.jpg)
+![screenshot-small](https://tg-image.614118.xyz/260612-f3c6h8.jpg)
 
 <style>
   /* 强行击穿 Fuwari 主题对 img 的 100% 限制 */
