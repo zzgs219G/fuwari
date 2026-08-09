@@ -26,7 +26,7 @@ draft: false
 安装时如提示风险，选“允许安装”即可（开源安全）。
 
 ### 2. 获取订阅链接（网盘自取）
-- **UC网盘（首选更新）**：[https://drive.uc.cn/s/28cbd4a60bdd4?public=1](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)
+- **UC网盘（8.10已更新）**：[https://drive.uc.cn/s/28cbd4a60bdd4?public=1](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)
 - **夸克网盘（备份）**：[https://pan.quark.cn/s/2e8c3772a722](https://pan.quark.cn/s/2e8c3772a722)
 - **百度网盘（备份）**：[https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666](https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666)（提取码：6666）
 
