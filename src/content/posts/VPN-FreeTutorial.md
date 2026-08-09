@@ -1,78 +1,86 @@
 ---
-title: "🔥 免费高速加速器（VPN）小白安装与使用全攻略"
+title: "🔥 开源网络客户端本地配置完整教程 新手零基础指南"
 published: 2026-06-02
-description: "自费购买的高速节点免费分享！配合 FlClash 高速直链下载，教你一键开启稳定、无广告的网络加速体验。"
+description: "个人测试收集网络配置文件，仅面向开发者查阅海外开源代码学习使用；搭配开源客户端优化页面加载，手把手教你本地完成全套配置，无广告纯净方案。"
 tags: [教程,指南]
 category: 教程
 draft: false
 ---
 
-本教程专为新手设计，按步骤操作即可免费高速上网。
+本文面向零基础开发者，仅作开源客户端本地配置技术学习参考，仅用于查阅海外开源项目代码。
 
 ---
 
-## 📢 声明
-
-:::important[💎 线路来源]
-所有线路均为**自费购买**，非公开免费机场。👉 [QQ交流群](https://qun.qq.com/universal-share/share?ac=1&authKey=xI021LBN4vUGBkGlHwd41KaQ0iCM5ocRmZSKnuCIFO6rvZT6e4jCQxfv8cUsl%2FOK&busi_data=eyJncm91cENvZGUiOiI1ODM4OTMyNzYiLCJ0b2tlbiI6Ilg3ZUZLOEswSGwxMTZnNlJ5eFF5YWM3Z2g2Qkt2MjVPMTd6R3JJSnQ5WU5pTFBmWmFYb0llY3ZsTGh5VngxTzYiLCJ1aW4iOiIzODA3MDY5NzMxIn0%3D&data=LB1eELZVflje4Wf7xxDWHXiCIs5O6i1zbNM7Evns5Iol6PuABkCyaTlHIK5ZyY-EsgSdY8iGrVkWAOT784IJag&svctype=4&tempid=h5_group_info)
+## 📢 资源使用声明
+:::important[💎 配置来源与使用边界]
+所有网络配置文件仅为本人日常学习查阅开源项目自用收集，**仅限小范围技术开发者交流分享**；禁止全网无限制批量转发、打包售卖、大规模公开扩散，禁止用于任何商业用途。
+👉 技术交流QQ群：https://qun.qq.com/universal-share/share?ac=1&authKey=xI021LBN4vUGBkGlHwd41KaQ0iCM5ocRmZSKnuCIFO6rvZT6e4jCQxfv8cUsl%2FOK&busi_data=eyJncm91cENvZGUiOiI1ODM4OTMyNzYiLCJ0b2tlbiI6Ilg3ZUZLOEswSGwxMTZnNlJ5eFF5YWM3Z2g2Qkt2MjVPMTd6R3JJSnQ5WU5pTFBmWmFYb0llY3ZsTGh5VngxTzYiLCJ1aW4iOiIzODA3MDY5NzMxIn0%3D&data=LB1eELZVflje4Wf7xxDWHXiCIs5O6i1zbNM7Evns5Iol6PuABkCyaTlHIK5ZyY-EsgSdY8iGrVkWAOT784IJag&svctype=4&tempid=h5_group_info)
 :::
 
 ---
 
-## 📥 第一步：获取软件与线路
+## 📥 第一步：获取开源客户端与本地配置文件
+### 1. 下载开源客户端安装包
+全文操作均基于这款开源网络客户端完成本地配置调试，根据你的设备系统下载对应安装包：
+👉 安卓客户端安装包：https://r2.614118.xyz/apps/vpn/FlClash_0.8.94.apk
+安卓系统安装第三方安装包弹出安全风险提醒为系统常规检测提示，允许安装即可。
 
-### 1. 下载 FlClash（安卓）
-👉 [直接下载安装包](https://r2.ili.asia/apps/vpn/FlClash_0.8.93.apk)（载体）  
-安装时如提示风险，选“允许安装”即可（开源安全）。
+👉 Windows电脑客户端安装包：https://r2.614118.xyz/apps/vpn/FlClash-0.8.94-windows-amd64-setup.exe
 
-### 2. 获取订阅链接（网盘自取）
-- **UC网盘（8.10已更新）**：[https://drive.uc.cn/s/28cbd4a60bdd4?public=1](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)
-- **夸克网盘（备份）**：[https://pan.quark.cn/s/2e8c3772a722](https://pan.quark.cn/s/2e8c3772a722)
-- **百度网盘（备份）**：[https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666](https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666)（提取码：6666）
+> 补充说明：该客户端为完全开源免费项目，仅作本地网络调试学习使用
 
-:::tip[💡 建议收藏]
-线路会定期更新，无法上网时回网盘复制最新链接即可。
+### 2. 获取本地配置订阅文本（网盘自取）
+配置文件会定期更新，链接失效可前往交流群获取最新版本
+- UC网盘（08.10更新）：https://drive.uc.cn/s/28cbd4a60bdd4?public=1
+- 夸克网盘（备份）：https://pan.quark.cn/s/2e8c3772a722
+- 百度网盘（备份）：https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666（提取码：6666）
+
+:::tip[💡 建议收藏本页面]
+配置文件定期更新，页面加载异常时重新复制网盘内最新链接导入客户端即可
 :::
 
 ---
 
-## ⚙️ 第二步：配置 FlClash
-
-1. 打开网盘内文本，**复制**订阅链接（以 `http://` 或 `https://` 开头）。
-2. 打开 FlClash → **“配置”** → **“从URL导入”**：
-   - 名称：任意（如“自费机场”）
-   - URL：粘贴链接
-3. 保存后，**勾选**该配置激活。
-
----
-
-## 🚀 第三步：启动加速
-
-- 回到 **“主页”**，点击 **“启动”** → 允许 VPN 连接 → 显示“已连接”即成功。
+## ⚙️ 第二步：开源客户端导入配置完整步骤
+1. 打开网盘内文本文件，完整复制以 `http/https` 开头的订阅链接；
+2. 打开客户端，依次点击页面 **「配置」** → **「从URL导入」**；
+   - 自定义名称：可随意填写（示例：自用学习配置）
+   - URL栏：粘贴复制好的订阅链接
+3. 保存配置条目，勾选对应配置完成启用。
 
 ---
 
-## ⚡ 进阶：测速选节点
+## 🚀 第三步：启动本地网络代理调试
+1. 返回客户端主页，点击「启动」按钮；
+2. 系统弹出网络权限授权弹窗，选择允许授权；
+3. 页面提示「已连接」即代表本地网络代理调试完成。
 
-- 进入 **“代理”** → 点 **闪电图标** 测速（延迟数字小≠一定快，需实测）。
-- 新手可直接选 **“自动选择”**，或手动挑节点。
+---
+
+## ⚡ 进阶操作：线路测速切换优化加载速度
+1. 进入客户端「代理」页面，点击闪电图标批量测速全部线路；
+   补充提示：延迟数值较低不代表网页加载速度最优，建议实际打开代码仓库页面测试效果。
+2. 新手懒人方案：直接开启「自动选择」，客户端自动匹配当前加载最稳定线路；也可手动自选线路使用。
 
 **效果图**  
-![image](https://tg-image.614118.xyz/260612-a3f9c1.jpg)
+
 
 ---
 
-## ❓ 常见问题
+## ❓ 常见问题解答
+> **代理连接成功，但开源代码网站无法加载？**
+> ① 核对设备系统时间与标准北京时间误差控制在1分钟内；② 将代理模式切换为「规则」或指定线路，不要选择直连模式。
 
-> **连接成功但打不开网页？**  
-> 检查手机时间是否准确（误差<1分钟）；确认代理模式为“规则”或具体节点，非“直连”。
+> **配置使用数天后页面加载失效？**
+> 配置文件定期更新，前往网盘复制全新订阅链接，在客户端刷新或重新导入配置。
 
-> **几天后失效？**  
-> 线路已更新，回网盘复制新链接，在配置中刷新或重新导入。
-
-> **国内 APP 变慢？**  
-> 确保路由模式为 **“规则模式”**，国内流量自动绕过代理。
+> **国内短视频、社交APP使用卡顿加载缓慢？**
+> 确认客户端路由模式设置为**「规则模式」**，国内软件网络流量会自动绕过本地代理，不影响日常国内软件正常使用。
 
 ---
 
-*📢 本工具仅供技术学习与合法用途，请遵守当地法律法规。*
+*📢 重要法律合规免责声明
+1. 本文仅为**开源网络客户端本地配置的纯技术学习文档**，仅允许用于合法查阅海外开源代码、技术文档等合规学习场景；
+2. 根据《中华人民共和国网络安全法》《中华人民共和国计算机信息网络国际联网管理暂行规定》，国内个人未经主管部门批准，不得私自搭建、使用跨境网络通道访问境外网站；
+3. 所有配置文件、客户端仅作技术原理学习参考，读者需自行了解、遵守当地互联网相关法律法规，一切个人使用行为产生的全部法律责任由使用者本人独立承担，本文作者不承担任何连带责任；
+4. 严禁使用本文相关工具、配置访问色情、暴力、分裂、违法境外网站，严禁用于网络攻击、数据爬取、违规引流等任何违法活动。*

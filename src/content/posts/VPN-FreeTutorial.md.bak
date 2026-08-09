@@ -1,0 +1,84 @@
+---
+title: "🔥 海外网站访问工具 新手完整安装设置全攻略"
+published: 2026-06-02
+description: "自用网络配置免费分享！搭配开源网络工具快速加载页面，教你一键搭建稳定、无广告的海外代码站访问环境。"
+tags: [教程,指南]
+category: 教程
+draft: false
+---
+
+本教程专为新手设计，按步骤操作即可顺畅访问海外代码网站。
+
+---
+
+## 📢 声明
+
+:::important[💎 配置来源]
+所有网络配置均为**个人自用收集**，不做大批量公开分发。👉 [QQ交流群](https://qun.qq.com/universal-share/share?ac=1&authKey=xI021LBN4vUGBkGlHwd41KaQ0iCM5ocRmZSKnuCIFO6rvZT6e4jCQxfv8cUsl%2FOK&busi_data=eyJncm91cENvZGUiOiI1ODM4OTMyNzYiLCJ0b2tlbiI6Ilg3ZUZLOEswSGwxMTZnNlJ5eFF5YWM3Z2g2Qkt2MjVPMTd6R3JJSnQ5WU5pTFBmWmFYb0llY3ZsTGh5VngxTzYiLCJ1aW4iOiIzODA3MDY5NzMxIn0%3D&data=LB1eELZVflje4Wf7xxDWHXiCIs5O6i1zbNM7Evns5Iol6PuABkCyaTlHIK5ZyY-EsgSdY8iGrVkWAOT784IJag&svctype=4&tempid=h5_group_info)
+:::
+
+---
+
+## 📥 第一步：获取软件与网络配置
+
+### 1. 下载配套客户端工具
+本教程全程需要依靠该客户端完成配置操作，根据你的设备选择对应安装包下载：
+👉 [安卓端安装包](https://r2.614118.xyz/apps/vpn/FlClash_0.8.94.apk)
+安装弹出风险提示为安卓第三方安装包常规提醒，选择允许安装即可。
+
+👉 [Windows电脑端安装包](https://r2.614118.xyz/apps/vpn/FlClash-0.8.94-windows-amd64-setup.exe)
+
+> 提示：该客户端为完全开源软件
+
+
+### 2. 获取订阅链接（网盘自取）
+- **UC网盘（06.10已更新）**：[https://drive.uc.cn/s/28cbd4a60bdd4?public=1](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)
+- **夸克网盘（备份）**：[https://pan.quark.cn/s/2e8c3772a722](https://pan.quark.cn/s/2e8c3772a722)
+- **百度网盘（备份）**：[https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666](https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666)（提取码：6666）
+
+:::tip[💡 建议收藏]
+配置文件会定期更新，访问异常时可交流群反馈更新
+:::
+
+---
+
+## ⚙️ 第二步：客户端配置步骤
+
+1. 打开网盘内文本，**复制**订阅链接（以 `http://` 或 `https://` 开头）。
+2. 打开客户端 → **“配置”** → **“从URL导入”**：
+   - 名称：任意（如“自用网络配置”）
+   - URL：粘贴链接
+3. 保存后，**勾选**该配置激活。
+
+---
+
+## 🚀 第三步：开启网络代理
+
+- 回到 **“主页”**，点击 **“启动”** → 允许网络连接权限 → 显示“已连接”即成功。
+
+---
+
+## ⚡ 进阶：测速切换线路
+
+- 进入 **“代理”** → 点 **闪电图标** 测速（延迟数字小≠一定快，需实测）。
+- 新手可直接选 **“自动选择”**，或手动切换线路。
+
+**效果图**  
+
+
+---
+
+## ❓ 常见问题
+
+> **连接成功但打不开网页？**  
+> 检查手机时间是否准确（误差<1分钟）；确认代理模式为“规则”或具体线路，非“直连”。
+
+> **几天后失效？**  
+> 配置文件已更新，回网盘复制新链接，在配置中刷新或重新导入。
+
+> **国内 APP 变慢？**  
+> 确保路由模式为 **“规则模式”**，国内流量自动绕过代理。
+
+---
+
+*📢 重要合规提示：本教程仅用于技术研究、Github开源项目查阅等合法合规场景，使用人需严格遵守《中华人民共和国网络安全法》及本地各项互联网管理法律法规，严禁违规使用。*
