@@ -1,6 +1,6 @@
 ---
 title: "🔥 开源网络客户端本地配置完整教程 新手零基础指南"
-published: 2026-08-10
+published: 2026-11-12
 description: "个人测试收集网络配置文件，仅面向开发者查阅海外开源代码学习使用；搭配开源客户端优化页面加载，手把手教你本地完成全套配置，无广告纯净方案。"
 tags: [教程, 指南]
 category: 教程
@@ -26,7 +26,7 @@ draft: false
 
 全文操作均基于这款开源网络客户端完成本地配置调试，根据你的设备系统下载对应安装包：
 
-- **安卓客户端**：[📱 点击下载安卓版](https://r2.614118.xyz/apps/vpn/FlClash_0.8.94.apk)  
+- **安卓客户端**：[📱 点击下载安卓版](https://r2.614118.xyz/apps/vpn/FlClash_0.8.96.apk)  
   （安卓系统弹出安全风险提醒为常规检测提示，允许安装即可）
 
 - **Windows电脑客户端**：[💻 点击下载Windows版](https://r2.614118.xyz/apps/vpn/FlClash-0.8.94-windows-amd64-setup.exe)
@@ -37,9 +37,11 @@ draft: false
 
 配置文件会定期更新，链接失效可前往交流群获取最新版本：
 
-- **UC网盘（08.10更新）**：[https://drive.uc.cn/s/28cbd4a60bdd4?public=1](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)
-- **夸克网盘（备份）**：[https://pan.quark.cn/s/2e8c3772a722](https://pan.quark.cn/s/2e8c3772a722)
-- **百度网盘（备份）**：[https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666](https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666)（提取码：`6666`）
+- **夸克网盘（11.12更新）**：[https://pan.quark.cn/s/895e9f023fb6](https://pan.quark.cn/s/895e9f023fb6)
+
+- **UC网盘（未更新）**：[https://drive.uc.cn/s/28cbd4a60bdd4?public=1](https://drive.uc.cn/s/28cbd4a60bdd4?public=1)
+
+- **百度网盘（未更新）**：[https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666](https://pan.baidu.com/s/1sP5hhd8zi_WmMG3X7Lqylg?pwd=6666)（提取码：`6666`）
 
 :::tip[💡 建议收藏本页面]
 配置文件定期更新，页面加载异常时重新复制网盘内最新链接导入客户端即可。
