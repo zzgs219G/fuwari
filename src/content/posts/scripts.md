@@ -33,14 +33,23 @@ scripts 项目已从旧版 curl 注入方式升级为书签系统 + 三阶段导
 :::
 
 ## 快速使用
-执行以下命令即可一键加载所有脚本功能：
+```bash
+# 1. 安装核心依赖
+pkg install git curl gh
 
-```bash
-source <(curl -fSL https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
-```
-# 带下载进度条
-```bash
-source <(curl -fkSL -# https://raw.githubusercontent.com/zzgs219G/scripts/main/fzgit.sh)
+# 2. 克隆 scripts 仓库
+cd ~
+git clone https://github.com/zzgs219G/scripts.git
+
+# 3. 写入 ~/.bashrc（幂等，重复执行不会堆叠）
+sed -i '/fz-tools\/fzgit.sh/d' ~/.bashrc
+echo 'source "$HOME/scripts/fz-tools/fzgit.sh"' >> ~/.bashrc
+source ~/.bashrc
+
+# 4. 初始化环境与书签
+setup    # 检查环境 + 配置 Git 全局信息 + 创建书签
+login    # 登录 GitHub（可选）
+aikey    # 配置 AI commit Key（可选）
 ```
 ## 效果截图
 ZeroTermux
