@@ -39,14 +39,10 @@ scripts 项目已从旧版 curl 注入方式升级为书签系统 + 三阶段导
 pkg install git curl gh
 ```
 
-**步骤 2：克隆 scripts 仓库**
+**步骤 2+3：克隆并写入 ~/.bashrc**
 ```bash
 cd ~
 git clone https://github.com/zzgs219G/scripts.git
-```
-
-**步骤 3：写入 ~/.bashrc（幂等，重复执行不会堆叠）**
-```bash
 sed -i '/fz-tools\/fzgit.sh/d' ~/.bashrc
 echo 'source "$HOME/scripts/fz-tools/fzgit.sh"' >> ~/.bashrc
 source ~/.bashrc
